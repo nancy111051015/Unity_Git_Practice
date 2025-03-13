@@ -66,6 +66,9 @@ namespace Nancy
         {
             Debug.Log(message: $"離開偵測區域");
         }
+
+
+
     }
  
 }
